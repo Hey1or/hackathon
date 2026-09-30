@@ -1,0 +1,13 @@
+.env
+**/.env
+.venv/
+__pycache__/
+*.py[cod]
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+app/build/
+app/.flutter-plugins-dependencies
+.DS_Store
+*.db
+backend/data/
